@@ -1,0 +1,19 @@
+numero_texto = input ("Digite um número ")
+
+print (numero_texto)
+
+numero = int(numero_texto)
+
+novo_numero = 5 + numero 
+
+print (novo_numero)
+
+novo_numero = int(input("Digite mais um número "))
+
+print (numero + novo_numero)
+
+
+
+
+
+
