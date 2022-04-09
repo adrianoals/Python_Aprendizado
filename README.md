@@ -1,2 +1,2 @@
-# Python_Aprendizado
- Primeiros passos + Lógica de programação
+# Python_aprendizado
+ Python + Lógica de programação + Algoritmos
