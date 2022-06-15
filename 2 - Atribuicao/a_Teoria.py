@@ -3,7 +3,7 @@
 Uma forma de armazenar valores na memória;
 Podemos utiliza-lás posteriormente em nossos programas
 
-Cada variável terá um toipo de dado;
+Cada variável terá um tipo de dado;
 Por exemplo: "teste" => texto e 14 => número
 
 Os tipos de dados são muito importantes na programação;
@@ -11,6 +11,7 @@ Os tipos de dados são muito importantes na programação;
 As vezes precisamos garantir que por meio de testes que uma variável
 tem determinado tipo  
 """
+
 #Atribuindo valores
 """
 Colocar um valor em uma variável é chamado de atribuição em programação
@@ -21,9 +22,11 @@ print (nome)
 
 E com a função "type" podemos descobrir o tipo da variável
 """
+
 #Nomes Válidos
 """
 Nem todos caracteres são aceitos para criar nomes de variáveis;
+Utilize esses mesmos critérios para nomear arquivos Python;
 
 Veja os nomes válidos; 
 Ex: teste1, nome, ano2020, nome_completo, _idade
@@ -33,6 +36,7 @@ Ex: palavra separada, 5nome, @nome
 
 Diretrizes válidas: Começar com string ou _ e seperar com _
 """
+
 #Valores númericos
 """
 É possível inserir números em variáveis também;
@@ -42,6 +46,7 @@ E temos os de pontos flutuantes ex: 1.50, 250.90, 0.99999009
 
 Obs: Na maioria das linguagens utiliza o "ponto" para separar as casas decimais 
 """
+
 #Valores Booleanos
 """
 O tipo de dado Boolean se resume a "True" e "False", ou seja verdadeiro e falso;
@@ -49,6 +54,7 @@ Podemos criar variáveis com esses valores;
 E eles serãom úteis mais para frente, quando criarmos programas 
 que tem condições de de comparação;
 """
+
 #Operadores Relacionais
 """
 Também conhecidos como operadores de comparação, vão auxiliar 

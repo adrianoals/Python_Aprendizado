@@ -1,6 +1,7 @@
 #Nomes Válidos
 """
 Nem todos caracteres são aceitos para criar nomes de variáveis;
+Utilize esses mesmos critérios para nomear arquivos Python;
 
 Veja os nomes válidos; 
 Ex: teste1, nome, ano2020, nome_completo, _idade

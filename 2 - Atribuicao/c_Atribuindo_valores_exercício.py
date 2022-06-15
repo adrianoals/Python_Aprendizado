@@ -2,6 +2,7 @@
 """
 Crie uma variável que vai armazenar um texto
 Exiba esse texto na tela
+E exiba sua classe na tela.
 """
 
 frase = "O rato roeu a roupa do rei de roma"

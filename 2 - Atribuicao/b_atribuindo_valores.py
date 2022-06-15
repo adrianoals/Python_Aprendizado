@@ -9,9 +9,7 @@ print (nome)
 E com a função "type" podemos descobrir o tipo da variável
 """
 
-
 JOAO = "Adriano"
-
 type_var = type(JOAO)
 
 print (JOAO)
